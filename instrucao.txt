@@ -1,0 +1,8 @@
+Crie uma variável chamada 'resultadoFinal' e atribua à ela uma expressão que 
+calcule o seguinte (utilize as variáveis disponibilizadas já previamente declaradas):
+  1. Adiciona 10 e 5.
+  2. Multiplica o resultado por 2.
+  3. Eleva o resultado ao quadrado.
+  4. Subtrai 20.
+  5. Divide o resultado por 2.
+  6. Retorna o módulo (resto) da divisão por 3.
